@@ -1,0 +1,14 @@
+{
+  "profile_name": "tech-internal",
+  "account_name": "内部科技安全公众号",
+  "default_author": "内容运营组",
+  "default_preset": "tech",
+  "content_direction": "科技 / 安全 / AI Agent / 产品",
+  "need_open_comment": false,
+  "only_fans_can_comment": false,
+  "show_cover_pic": true,
+  "notes": [
+    "只保存非敏感配置。",
+    "不要在 profile 中写入 AppSecret、access_token、客户敏感信息。"
+  ]
+}

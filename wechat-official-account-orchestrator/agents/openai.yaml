@@ -1,0 +1,4 @@
+interface:
+  display_name: "内部科技安全公众号总控"
+  short_description: "独立新版总控：面向内部科技安全号，从内容生产、审稿、视觉计划、排版预览到草稿箱"
+  default_prompt: "使用 $wechat-official-account-orchestrator 帮我为内部科技安全公众号准备一篇文章，从选题、成稿、审稿、视觉计划、排版预览到草稿箱 dry-run。"
